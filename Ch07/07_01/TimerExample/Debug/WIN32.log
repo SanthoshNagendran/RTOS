@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/wc4574'
+  main_app.c
+c:\users\instructor\desktop\exercise files\ch07\07_01\timerexample\main_app.c(42): warning C4101: 'ul': unreferenced local variable
+c:\users\instructor\desktop\exercise files\ch07\07_01\timerexample\main_app.c(70): warning C4127: conditional expression is constant
+c:\users\instructor\desktop\exercise files\ch07\07_01\timerexample\main_app.c(77): warning C4127: conditional expression is constant
+c:\users\instructor\desktop\exercise files\ch07\07_01\timerexample\main_app.c(91): warning C4100: 'pxExpiredTimer': unreferenced formal parameter
+c:\users\instructor\desktop\exercise files\ch07\07_01\timerexample\main_app.c(37): warning C4716: 'main_app': must return a value
+  WIN32.vcxproj -> C:\Users\Instructor\Desktop\Exercise Files\Ch07\07_01\TimerExample\.\Debug\TimerExample.exe

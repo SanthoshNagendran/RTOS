@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/wc4574'
+  main_app.c
+c:\users\instructor\desktop\exercise files\ch04\04_04\threadsafetyexample\main_app.c(9): warning C4005: 'portINTERRUPT_YIELD': macro redefinition
+  c:\users\instructor\desktop\exercise files\freertos-source\portable\msvc-mingw\portmacro.h(136): note: see previous definition of 'portINTERRUPT_YIELD'
+c:\users\instructor\desktop\exercise files\ch04\04_04\threadsafetyexample\main_app.c(61): warning C4127: conditional expression is constant
+c:\users\instructor\desktop\exercise files\ch04\04_04\threadsafetyexample\main_app.c(73): warning C4127: conditional expression is constant
+c:\users\instructor\desktop\exercise files\ch04\04_04\threadsafetyexample\main_app.c(33): warning C4716: 'main_app': must return a value
+  WIN32.vcxproj -> C:\Users\Instructor\Desktop\Exercise Files\Ch04\04_04\ThreadSafetyExample\.\Debug\ThreadSafetyExample.exe

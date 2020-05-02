@@ -1,0 +1,30 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/wc4574'
+  supporting_functions.c
+c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\supporting_functions\supporting_functions.c(143): warning C4777: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uint32_t'
+  c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\supporting_functions\supporting_functions.c(143): note: consider using '%u' in the format string
+  c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\supporting_functions\supporting_functions.c(143): note: consider using '%Iu' in the format string
+  c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\supporting_functions\supporting_functions.c(143): note: consider using '%I32u' in the format string
+c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\supporting_functions\supporting_functions.c(165): warning C4777: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'TickType_t'
+  c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\supporting_functions\supporting_functions.c(165): note: consider using '%u' in the format string
+  c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\supporting_functions\supporting_functions.c(165): note: consider using '%Iu' in the format string
+  c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\supporting_functions\supporting_functions.c(165): note: consider using '%I32u' in the format string
+  Run-time-stats-utils.c
+  main_app.c
+c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\main_app.c(25): warning C4091: 'typedef ': ignored on left of 'Message' when no variable is declared
+c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\main_app.c(57): warning C4127: conditional expression is constant
+c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\main_app.c(66): warning C4204: nonstandard extension used: non-constant aggregate initializer
+  main.c
+  timers.c
+  tasks.c
+  stream_buffer.c
+  queue.c
+  port.c
+  heap_5.c
+  list.c
+  event_groups.c
+  croutine.c
+  trcKernelPort.c
+  trcSnapshotRecorder.c
+  Generating Code...
+c:\users\instructor\desktop\exercise files\ch05\05_01\queueexample\main_app.c(41): warning C4716: 'main_app': must return a value
+  WIN32.vcxproj -> C:\Users\Instructor\Desktop\Exercise Files\Ch05\05_01\QueueExample\.\Debug\QueueExample.exe

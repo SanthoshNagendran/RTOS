@@ -1,0 +1,5 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/wc4574'
+  main_app.c
+c:\users\instructor\desktop\exercise files\ch04\04_05\deadlockexample\main_app.c(33): warning C4101: 'ul': unreferenced local variable
+c:\users\instructor\desktop\exercise files\ch04\04_05\deadlockexample\main_app.c(28): warning C4716: 'main_app': must return a value
+  WIN32.vcxproj -> C:\Users\Instructor\Desktop\Exercise Files\Ch04\04_05\DeadlockExample\.\Debug\DeadlockExample.exe

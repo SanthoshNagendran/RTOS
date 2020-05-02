@@ -1,0 +1,29 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/wc4574'
+  supporting_functions.c
+c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\supporting_functions\supporting_functions.c(143): warning C4777: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uint32_t'
+  c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\supporting_functions\supporting_functions.c(143): note: consider using '%u' in the format string
+  c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\supporting_functions\supporting_functions.c(143): note: consider using '%Iu' in the format string
+  c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\supporting_functions\supporting_functions.c(143): note: consider using '%I32u' in the format string
+c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\supporting_functions\supporting_functions.c(165): warning C4777: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'TickType_t'
+  c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\supporting_functions\supporting_functions.c(165): note: consider using '%u' in the format string
+  c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\supporting_functions\supporting_functions.c(165): note: consider using '%Iu' in the format string
+  c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\supporting_functions\supporting_functions.c(165): note: consider using '%I32u' in the format string
+  Run-time-stats-utils.c
+  main_app.c
+c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\main_app.c(50): warning C4127: conditional expression is constant
+c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\main_app.c(72): warning C4127: conditional expression is constant
+  main.c
+  timers.c
+  tasks.c
+  stream_buffer.c
+  queue.c
+  port.c
+  heap_5.c
+  list.c
+  event_groups.c
+  croutine.c
+  trcKernelPort.c
+  trcSnapshotRecorder.c
+  Generating Code...
+c:\users\instructor\desktop\exercise files\ch06\06_01\memdynaexample\main_app.c(30): warning C4716: 'main_app': must return a value
+  WIN32.vcxproj -> C:\Users\Instructor\Desktop\Exercise Files\Ch06\06_01\MemDynaExample\.\Debug\MemDynaExample.exe
